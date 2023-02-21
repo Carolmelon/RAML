@@ -77,8 +77,8 @@ After indexing, given an input query, passages can be efficiently retrieved:
 
 
 ```shell
-python passage_retrieval.py
-	--passages
+python passage_retrieval_sts_transformer.py
+    --passages
     path-to-passages/psgs_w100.tsv	#.tsv file
     --data
     data_fewshot/Pure_Huffpost.json		# few-shot dataset, Huffpost or Amazon review.
