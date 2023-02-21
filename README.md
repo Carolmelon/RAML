@@ -24,7 +24,7 @@ The expected data format is a list of entry examples, where each entry example i
             - `text`: passage text
 
 Entry example:
-```JSON
+```python
 {
   'question': 'Live It Up',
   'target': '3',	# the label of query text.
