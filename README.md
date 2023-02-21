@@ -52,7 +52,6 @@ Word-level embedding:
 
 - I use the ALBERT, specifically the huggingface's `albert-base-v1` model.
 
-- 
 
 # Knowledge source indexing
 
